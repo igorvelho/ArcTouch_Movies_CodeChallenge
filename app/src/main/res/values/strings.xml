@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">ArcTouch_Movies_CodeChallenge</string>
+    <string name="app_name">The ArcTouch Movie DB</string>
+    <string name="labelMovieSearch">Movie search</string>
+    <string name="apiURL">https://api.themoviedb.org/3/</string>
+    <string name="apiKey">1f54bd990f1cdfb230adb312546d765d</string>
+    <string name="imageURLBase">https://image.tmdb.org/t/p/w500</string>
+    <string name="labelReleaseDate">Release Date:</string>
+    <string name="labelGenre">Genre:</string>
+    <string name="buttonSearch">Search</string>
+
 </resources>
